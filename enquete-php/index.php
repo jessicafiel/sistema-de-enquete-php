@@ -13,7 +13,7 @@ include_once("conexao.php");
 	</head>
 	<body>
 		<div class="container">
-			<h1>Listar</h1>
+			<h1>Votação</h1>
 			<?php
 			if(isset($_SESSION['msg'])){
 				echo $_SESSION['msg']."<br><br>";
