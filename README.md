@@ -1,3 +1,3 @@
 # sistema-de-enquete-php
-Sistema simples de enquentes usando PHP e banco de dados MySQLi
+Sistema simples de enquetes usando PHP e banco de dados MySQLi
 
